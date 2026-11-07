@@ -1,4 +1,4 @@
-# Known-good Windows/Python 3.12 build toolchain, captured 2026-10-10.
+# Windows/Python 3.12 build toolchain, captured 2026-10-10; setuptools security patch 2026-11-07.
 PySide6==6.12.0
 PySide6_Addons==6.12.0
 PySide6_Essentials==6.12.0
@@ -11,7 +11,7 @@ altgraph==0.17.5
 packaging==26.3
 pefile==2024.8.26
 pywin32-ctypes==0.2.3
-setuptools==84.0.0
+setuptools==84.1.0
 pytest==9.1.1
 colorama==0.4.6
 iniconfig==2.3.1

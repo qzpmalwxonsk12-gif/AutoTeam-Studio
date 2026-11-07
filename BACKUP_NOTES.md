@@ -2,7 +2,7 @@
 
 Use the main patch_2 workspace. Do not publish A/B backups, clean/intermediate/build-pack snapshots, archived debug files, early coordinator variants, or recovery helpers as separate repositories.
 
-Original local source files are unchanged. This private backup excludes credentials, signing keys, local configuration, dependencies, build caches, runtime data, and unrelated research/old backup folders. No build or functionality test was run as part of this upload.
+Original local source files are unchanged. This source snapshot excludes credentials, signing keys, local configuration, dependencies, build caches, runtime data, and unrelated research/old backup folders. No build or functionality test was run as part of this upload.
 
 ## Excluded paths
 
@@ -21,3 +21,10 @@ Original local source files are unchanged. This private backup excludes credenti
 - `AutoTeam-Studio/tests\core\.r/`
 - `AutoTeam-Studio/tests\core\__pycache__/`
 - `AutoTeam-Studio/tests\ui\__pycache__/`
+
+
+
+
+## Final source/security review (2026-11-07)
+
+Dependency updates from this review are recorded in the committed dependency files. Validation details are in the separate final audit report.

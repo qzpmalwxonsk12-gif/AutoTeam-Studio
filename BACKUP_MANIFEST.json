@@ -1,365 +1,382 @@
 {
   "source_files": [
     {
+      "path": ".gitignore",
+      "size": 508,
+      "sha256": "55a2c21cafbc2223cb1bfbea84eb866a6425fdd958a72aa6fddb2b03073ec00d"
+    },
+    {
+      "path": "BACKUP_NOTES.md",
+      "size": 1336,
+      "sha256": "083e20b51ce229654765132d98e810e403df07c67a2ab4f73dca101b82f331ec"
+    },
+    {
       "path": "Build AutoTeam Studio.cmd",
-      "sha256": "c87b4dc82d31c49cc58858334b5af1c4d1e0a11fec821d47baa0c6ffc1f4506b",
-      "size": 652
+      "size": 652,
+      "sha256": "c87b4dc82d31c49cc58858334b5af1c4d1e0a11fec821d47baa0c6ffc1f4506b"
     },
     {
       "path": "Launch AutoTeam Studio.cmd",
-      "sha256": "fc3f99e5c38cd727b0248275aea755f17fbb965663cbb94d7ea868b123a84cb8",
-      "size": 314
+      "size": 314,
+      "sha256": "fc3f99e5c38cd727b0248275aea755f17fbb965663cbb94d7ea868b123a84cb8"
     },
     {
       "path": "PATCH_NOTES.md",
-      "sha256": "125a94caf68c016ea62f8f750b8093492e9704ffcc7a39c29788cda8549c2a89",
-      "size": 1887
+      "size": 1887,
+      "sha256": "125a94caf68c016ea62f8f750b8093492e9704ffcc7a39c29788cda8549c2a89"
     },
     {
-      "path": "pyproject.toml",
-      "sha256": "1d0d75ecb0d1667edc8ba1913abb60baccb00a535c218285d27439782a5bed3c",
-      "size": 516
-    },
-    {
-      "path": "requirements-build.txt",
-      "sha256": "a877c95be27be6719ca9e936f342c83a1f338e1e90150303a15dec3b05d6e202",
-      "size": 433
+      "path": "README.md",
+      "size": 4933,
+      "sha256": "6ec5e641dfebcdbd2a1a6c4b4d2eaf48f2cbbc97479f724266abfc0e5262d70d"
     },
     {
       "path": "START_HERE.md",
-      "sha256": "8914889c2385e5be5184b6eb4cc6ccc7c87abde8f7c993772e9aa08106f85e34",
-      "size": 3279
+      "size": 3279,
+      "sha256": "8914889c2385e5be5184b6eb4cc6ccc7c87abde8f7c993772e9aa08106f85e34"
     },
     {
       "path": "docs/ACCEPTANCE_TESTS.md",
-      "sha256": "01fdd5040d68847fbb5e5458cbbe21157beb83b69574990d75d618134c7b05ba",
-      "size": 3307
+      "size": 3307,
+      "sha256": "01fdd5040d68847fbb5e5458cbbe21157beb83b69574990d75d618134c7b05ba"
     },
     {
       "path": "docs/ARCHITECTURE_AND_CONTRACTS.md",
-      "sha256": "0220de828ba245a6231873e9405685ed106e174fa0ecd5e5e595e1e5ff4b22f6",
-      "size": 4221
+      "size": 4221,
+      "sha256": "0220de828ba245a6231873e9405685ed106e174fa0ecd5e5e595e1e5ff4b22f6"
     },
     {
       "path": "docs/CHAT_UPDATE.md",
-      "sha256": "a9a482196d75ee33c84d7e048fd5934fa0c063ee8281bc08eb2a30b378405afb",
-      "size": 2238
+      "size": 2238,
+      "sha256": "a9a482196d75ee33c84d7e048fd5934fa0c063ee8281bc08eb2a30b378405afb"
     },
     {
       "path": "docs/COMPLETION_REPORT.md",
-      "sha256": "4ee1ec93f21b1dbb065d6fbbe500662349564714156ad3d4af63d490cb70180b",
-      "size": 7578
+      "size": 7578,
+      "sha256": "4ee1ec93f21b1dbb065d6fbbe500662349564714156ad3d4af63d490cb70180b"
     },
     {
       "path": "docs/IMPLEMENTATION_PLAN.md",
-      "sha256": "d5f25c6bf213b8071d132675ad5f14f687f2ff76d4ee63b7571a460b3da4436f",
-      "size": 1214
+      "size": 1214,
+      "sha256": "d5f25c6bf213b8071d132675ad5f14f687f2ff76d4ee63b7571a460b3da4436f"
     },
     {
       "path": "docs/PRODUCT_REQUIREMENTS.md",
-      "sha256": "644d1df9e2c7863304793fe782c58fa66c62fee2af3d9aa109531322ea89cfa3",
-      "size": 3206
+      "size": 3206,
+      "sha256": "644d1df9e2c7863304793fe782c58fa66c62fee2af3d9aa109531322ea89cfa3"
     },
     {
       "path": "docs/REFERENCE_MIGRATION.md",
-      "sha256": "d235ca1f9980759b21110dac3c6a15ce87e3d28f2075dc506899d3713d684334",
-      "size": 1868
+      "size": 1868,
+      "sha256": "d235ca1f9980759b21110dac3c6a15ce87e3d28f2075dc506899d3713d684334"
     },
     {
       "path": "docs/SECURITY_AND_LIMITS.md",
-      "sha256": "c195275f95f1685f2327aa36e9a346e396f3b00c13b522aa3e43ec55598f83e8",
-      "size": 3779
+      "size": 3779,
+      "sha256": "c195275f95f1685f2327aa36e9a346e396f3b00c13b522aa3e43ec55598f83e8"
     },
     {
       "path": "docs/TASK_DIVISION.md",
-      "sha256": "8b136445fee7fcb6bd2eceee08920986c0666c966bf5f458d9d04f3f0c55566d",
-      "size": 2431
+      "size": 2431,
+      "sha256": "8b136445fee7fcb6bd2eceee08920986c0666c966bf5f458d9d04f3f0c55566d"
     },
     {
       "path": "docs/USER_GUIDE.md",
-      "sha256": "00347ecb88bfc09e318d614d6faa9991c7c482330c9a8338b79e759e00b118b6",
-      "size": 10752
+      "size": 10752,
+      "sha256": "00347ecb88bfc09e318d614d6faa9991c7c482330c9a8338b79e759e00b118b6"
     },
     {
       "path": "packaging/AutoTeamStudio.spec",
-      "sha256": "b0966e38d86ff07f89d6b6ec42a581e79675af1f0ed4acf4d9e8fefdd2da5f2b",
-      "size": 1473
+      "size": 1473,
+      "sha256": "b0966e38d86ff07f89d6b6ec42a581e79675af1f0ed4acf4d9e8fefdd2da5f2b"
+    },
+    {
+      "path": "pyproject.toml",
+      "size": 516,
+      "sha256": "1d0d75ecb0d1667edc8ba1913abb60baccb00a535c218285d27439782a5bed3c"
+    },
+    {
+      "path": "requirements-build.txt",
+      "size": 479,
+      "sha256": "367649935f7fd5430055e867839da24bd02acde81fcfeba3838de6885c09e5c2"
     },
     {
       "path": "scripts/build_windows.py",
-      "sha256": "48067304bde74b8aef40c20ec72983e44fd1e3e7133fd6352dc240e4032fb986",
-      "size": 3664
-    },
-    {
-      "path": "src/autoteam_studio/contracts.py",
-      "sha256": "09afb310426ef902e75da7833e861f0a2103b368f9c876937d2a11ad72519f86",
-      "size": 1666
-    },
-    {
-      "path": "src/autoteam_studio/smoke.py",
-      "sha256": "c60b3a5c8bb8d3799550dae9a1d44fcce28a736a81d9cc35adb2ac9ff89d091e",
-      "size": 6069
+      "size": 3664,
+      "sha256": "48067304bde74b8aef40c20ec72983e44fd1e3e7133fd6352dc240e4032fb986"
     },
     {
       "path": "src/autoteam_studio/__init__.py",
-      "sha256": "69e0f6d24a27105a1517e2d60b435a6aeccae9158ed5d0a6d1c006bc25830e85",
-      "size": 109
+      "size": 109,
+      "sha256": "69e0f6d24a27105a1517e2d60b435a6aeccae9158ed5d0a6d1c006bc25830e85"
     },
     {
       "path": "src/autoteam_studio/__main__.py",
-      "sha256": "0d107799ea1c80e3197855f209e2439e8ff3947b0f77174f7a7ecfd3ded48132",
-      "size": 559
+      "size": 559,
+      "sha256": "0d107799ea1c80e3197855f209e2439e8ff3947b0f77174f7a7ecfd3ded48132"
     },
     {
-      "path": "src/autoteam_studio/core/api.py",
-      "sha256": "9134347557169d805d3b3f3615437c154689e559db791b22482cb397c25239f6",
-      "size": 35523
-    },
-    {
-      "path": "src/autoteam_studio/core/chat.py",
-      "sha256": "1ae13ccda7e37416253ef9ae32811deb357acd86e340eaeb9bac94aaf2623f5b",
-      "size": 11816
-    },
-    {
-      "path": "src/autoteam_studio/core/codex.py",
-      "sha256": "9540e7d4ee771657b84085cd78356fc41edcf6e4d626bfe20e4479e865bcf117",
-      "size": 3639
-    },
-    {
-      "path": "src/autoteam_studio/core/deadlines.py",
-      "sha256": "ea9d1eeb5120b769ceac3b991ce030bced48d39bcd74015f3e99f24273262f3a",
-      "size": 1489
-    },
-    {
-      "path": "src/autoteam_studio/core/events.py",
-      "sha256": "468ef9663c8f202a2cf80bee1b278cbaeecdb3bd60d354a82f32489e9e820539",
-      "size": 4229
-    },
-    {
-      "path": "src/autoteam_studio/core/fixtures.py",
-      "sha256": "01dfcb0761643cfdf7674c756b9e2180d7b5a92e5223703a2c52cf7678109c48",
-      "size": 3807
+      "path": "src/autoteam_studio/contracts.py",
+      "size": 1666,
+      "sha256": "09afb310426ef902e75da7833e861f0a2103b368f9c876937d2a11ad72519f86"
     },
     {
       "path": "src/autoteam_studio/core/HANDOFF.md",
-      "sha256": "73c7e035eb6e225751901f995d6b9ecab45954ec978d616ad3886d8d94940de8",
-      "size": 9083
-    },
-    {
-      "path": "src/autoteam_studio/core/process.py",
-      "sha256": "8bf3b84c2490d725dc738c61356c2c8014691162dbe694a1d04253bb2b16e100",
-      "size": 11140
-    },
-    {
-      "path": "src/autoteam_studio/core/project.py",
-      "sha256": "78a0992c9168217f05783607028f609e8ede00afbd3bcb0df6e9514dd1b674be",
-      "size": 5093
-    },
-    {
-      "path": "src/autoteam_studio/core/safety.py",
-      "sha256": "a3de032cdbac1697fdad7e3e4ff90b202da54d5a2b987dacf146c5750a10425d",
-      "size": 7231
-    },
-    {
-      "path": "src/autoteam_studio/core/setup.py",
-      "sha256": "e21e7db98f6dd5c3972f80e3a3997951dbad84ffff5815e746542d8297a7e51e",
-      "size": 5644
-    },
-    {
-      "path": "src/autoteam_studio/core/storage.py",
-      "sha256": "4a9395cba301b0cadf3ebb1dc664b0efcaf791cda3f8c5b79a3869ac5bcbd5b5",
-      "size": 11923
-    },
-    {
-      "path": "src/autoteam_studio/core/types.py",
-      "sha256": "55a5647fadb566a795b1e0955a173581b8c8a623ed309579ef1cf0d549b2a63b",
-      "size": 7641
+      "size": 9083,
+      "sha256": "73c7e035eb6e225751901f995d6b9ecab45954ec978d616ad3886d8d94940de8"
     },
     {
       "path": "src/autoteam_studio/core/__init__.py",
-      "sha256": "59af91e7cd80bc602a92c77a0ba0b49702baa1a0765165c7cb4b3978abfb86bb",
-      "size": 77
+      "size": 77,
+      "sha256": "59af91e7cd80bc602a92c77a0ba0b49702baa1a0765165c7cb4b3978abfb86bb"
     },
     {
-      "path": "src/autoteam_studio/ui/adapter.py",
-      "sha256": "ec902e56f9661aad84e749e6a1ce3d307b6bf390772344391e92d203fa276d02",
-      "size": 2290
+      "path": "src/autoteam_studio/core/api.py",
+      "size": 35523,
+      "sha256": "9134347557169d805d3b3f3615437c154689e559db791b22482cb397c25239f6"
     },
     {
-      "path": "src/autoteam_studio/ui/chat_workspace.py",
-      "sha256": "85482303431cf54e3b6a65ef947b50c86702e57d60c25bf766388bd586048c54",
-      "size": 19718
+      "path": "src/autoteam_studio/core/chat.py",
+      "size": 11816,
+      "sha256": "1ae13ccda7e37416253ef9ae32811deb357acd86e340eaeb9bac94aaf2623f5b"
     },
     {
-      "path": "src/autoteam_studio/ui/conversation.py",
-      "sha256": "7490e38a0ff446cb20af69a8a29f4d5374e656dde325012e5a2517aec063a33c",
-      "size": 8596
+      "path": "src/autoteam_studio/core/codex.py",
+      "size": 3639,
+      "sha256": "9540e7d4ee771657b84085cd78356fc41edcf6e4d626bfe20e4479e865bcf117"
+    },
+    {
+      "path": "src/autoteam_studio/core/deadlines.py",
+      "size": 1489,
+      "sha256": "ea9d1eeb5120b769ceac3b991ce030bced48d39bcd74015f3e99f24273262f3a"
+    },
+    {
+      "path": "src/autoteam_studio/core/events.py",
+      "size": 4229,
+      "sha256": "468ef9663c8f202a2cf80bee1b278cbaeecdb3bd60d354a82f32489e9e820539"
+    },
+    {
+      "path": "src/autoteam_studio/core/fixtures.py",
+      "size": 3807,
+      "sha256": "01dfcb0761643cfdf7674c756b9e2180d7b5a92e5223703a2c52cf7678109c48"
+    },
+    {
+      "path": "src/autoteam_studio/core/process.py",
+      "size": 11140,
+      "sha256": "8bf3b84c2490d725dc738c61356c2c8014691162dbe694a1d04253bb2b16e100"
+    },
+    {
+      "path": "src/autoteam_studio/core/project.py",
+      "size": 5093,
+      "sha256": "78a0992c9168217f05783607028f609e8ede00afbd3bcb0df6e9514dd1b674be"
+    },
+    {
+      "path": "src/autoteam_studio/core/safety.py",
+      "size": 7231,
+      "sha256": "a3de032cdbac1697fdad7e3e4ff90b202da54d5a2b987dacf146c5750a10425d"
+    },
+    {
+      "path": "src/autoteam_studio/core/setup.py",
+      "size": 5644,
+      "sha256": "e21e7db98f6dd5c3972f80e3a3997951dbad84ffff5815e746542d8297a7e51e"
+    },
+    {
+      "path": "src/autoteam_studio/core/storage.py",
+      "size": 11923,
+      "sha256": "4a9395cba301b0cadf3ebb1dc664b0efcaf791cda3f8c5b79a3869ac5bcbd5b5"
+    },
+    {
+      "path": "src/autoteam_studio/core/types.py",
+      "size": 7641,
+      "sha256": "55a5647fadb566a795b1e0955a173581b8c8a623ed309579ef1cf0d549b2a63b"
+    },
+    {
+      "path": "src/autoteam_studio/smoke.py",
+      "size": 6069,
+      "sha256": "c60b3a5c8bb8d3799550dae9a1d44fcce28a736a81d9cc35adb2ac9ff89d091e"
     },
     {
       "path": "src/autoteam_studio/ui/HANDOFF.md",
-      "sha256": "9aacd3d2fb0352d66dcdf6a39fb8ba2c306eb2bfa78fc62dfaeb0e2f5aa11232",
-      "size": 4414
-    },
-    {
-      "path": "src/autoteam_studio/ui/preferences.py",
-      "sha256": "404a7becc3f4571647871005bb8dffcdef1a5a594417296873a969c0ec8cfc0a",
-      "size": 2217
-    },
-    {
-      "path": "src/autoteam_studio/ui/window.py",
-      "sha256": "e2502508ff513d240b1dec2023e4408b011f46f06f16f9a84901463d52ac14ac",
-      "size": 49915
+      "size": 4414,
+      "sha256": "9aacd3d2fb0352d66dcdf6a39fb8ba2c306eb2bfa78fc62dfaeb0e2f5aa11232"
     },
     {
       "path": "src/autoteam_studio/ui/__init__.py",
-      "sha256": "c755cc83b5ed8ab98b6578d8813bcbd0cdaf01f90b7cd4be95c7fe5937e381bb",
-      "size": 68
+      "size": 68,
+      "sha256": "c755cc83b5ed8ab98b6578d8813bcbd0cdaf01f90b7cd4be95c7fe5937e381bb"
     },
     {
-      "path": "src/autoteam_studio/worker/engine.py",
-      "sha256": "59f9fed200eb6b4239264940f59a11bbc48b658baf894da16893d33297612050",
-      "size": 33016
+      "path": "src/autoteam_studio/ui/adapter.py",
+      "size": 2290,
+      "sha256": "ec902e56f9661aad84e749e6a1ce3d307b6bf390772344391e92d203fa276d02"
     },
     {
-      "path": "src/autoteam_studio/worker/fake_chat.py",
-      "sha256": "53cc25f3e89ddf19fdf60d6d070872465f82b9fed6e66822c549d0d44288cba3",
-      "size": 1034
+      "path": "src/autoteam_studio/ui/chat_workspace.py",
+      "size": 19718,
+      "sha256": "85482303431cf54e3b6a65ef947b50c86702e57d60c25bf766388bd586048c54"
     },
     {
-      "path": "src/autoteam_studio/worker/fake_cli.py",
-      "sha256": "546f98aac791d612c670039a48e14cadc437a37b4bd54eb5340e7c91be92303b",
-      "size": 3638
+      "path": "src/autoteam_studio/ui/conversation.py",
+      "size": 8596,
+      "sha256": "7490e38a0ff446cb20af69a8a29f4d5374e656dde325012e5a2517aec063a33c"
     },
     {
-      "path": "src/autoteam_studio/worker/gates.py",
-      "sha256": "f4b2e671de790e772d082e20569ee49706509a2cbac1a96e1d1cbddf4b0937b8",
-      "size": 7854
+      "path": "src/autoteam_studio/ui/preferences.py",
+      "size": 2217,
+      "sha256": "404a7becc3f4571647871005bb8dffcdef1a5a594417296873a969c0ec8cfc0a"
     },
     {
-      "path": "src/autoteam_studio/worker/intent.py",
-      "sha256": "eaa62fc606bd357157f6e56cc97e5bf4a4a7bf39bf8247490e66f04eb95f6076",
-      "size": 1185
-    },
-    {
-      "path": "src/autoteam_studio/worker/journal.py",
-      "sha256": "af2a6d520f48fbd867d6e636b1867ba1ce2b12b7e53e348fa622141241854fbb",
-      "size": 1449
+      "path": "src/autoteam_studio/ui/window.py",
+      "size": 49915,
+      "sha256": "e2502508ff513d240b1dec2023e4408b011f46f06f16f9a84901463d52ac14ac"
     },
     {
       "path": "src/autoteam_studio/worker/__init__.py",
-      "sha256": "781d61b56e1d989653bca2ec5a770d84ff11e64232c15288f9155c90b4f873da",
-      "size": 59
+      "size": 59,
+      "sha256": "781d61b56e1d989653bca2ec5a770d84ff11e64232c15288f9155c90b4f873da"
     },
     {
       "path": "src/autoteam_studio/worker/__main__.py",
-      "sha256": "54ac95a818b85f9a669e620c257ec932205945681686c6aba494f4a937a666a4",
-      "size": 1238
+      "size": 1238,
+      "sha256": "54ac95a818b85f9a669e620c257ec932205945681686c6aba494f4a937a666a4"
     },
     {
-      "path": "tests/test_contracts.py",
-      "sha256": "2b208d49881ab6ccc23a6a9268a41fbd5f686313dc4e638d355700c298ef1eb3",
-      "size": 940
+      "path": "src/autoteam_studio/worker/engine.py",
+      "size": 33016,
+      "sha256": "59f9fed200eb6b4239264940f59a11bbc48b658baf894da16893d33297612050"
+    },
+    {
+      "path": "src/autoteam_studio/worker/fake_chat.py",
+      "size": 1034,
+      "sha256": "53cc25f3e89ddf19fdf60d6d070872465f82b9fed6e66822c549d0d44288cba3"
+    },
+    {
+      "path": "src/autoteam_studio/worker/fake_cli.py",
+      "size": 3638,
+      "sha256": "546f98aac791d612c670039a48e14cadc437a37b4bd54eb5340e7c91be92303b"
+    },
+    {
+      "path": "src/autoteam_studio/worker/gates.py",
+      "size": 7854,
+      "sha256": "f4b2e671de790e772d082e20569ee49706509a2cbac1a96e1d1cbddf4b0937b8"
+    },
+    {
+      "path": "src/autoteam_studio/worker/intent.py",
+      "size": 1185,
+      "sha256": "eaa62fc606bd357157f6e56cc97e5bf4a4a7bf39bf8247490e66f04eb95f6076"
+    },
+    {
+      "path": "src/autoteam_studio/worker/journal.py",
+      "size": 1449,
+      "sha256": "af2a6d520f48fbd867d6e636b1867ba1ce2b12b7e53e348fa622141241854fbb"
     },
     {
       "path": "tests/core/.gitignore",
-      "sha256": "dd6c435dfa56a0d7775f1f2de4eebe1bc4d6dc62a3fb85cf16ba4b33722c7069",
-      "size": 137
+      "size": 137,
+      "sha256": "dd6c435dfa56a0d7775f1f2de4eebe1bc4d6dc62a3fb85cf16ba4b33722c7069"
     },
     {
       "path": "tests/core/conftest.py",
-      "sha256": "7b8f6377c396ae89c979efcfc2bf24390f605eecbc0770486b61a6c5b9555032",
-      "size": 1635
+      "size": 1635,
+      "sha256": "7b8f6377c396ae89c979efcfc2bf24390f605eecbc0770486b61a6c5b9555032"
     },
     {
       "path": "tests/core/test_chat.py",
-      "sha256": "fb59831765a96df5763856e9c94d4db69ee8e1fcbbe794d48f5ca978b4285f89",
-      "size": 5766
+      "size": 5766,
+      "sha256": "fb59831765a96df5763856e9c94d4db69ee8e1fcbbe794d48f5ca978b4285f89"
     },
     {
       "path": "tests/core/test_completion.py",
-      "sha256": "eb6ac8049ed434ddbef94c19a35093ce701a5caaadf8c1729935a4892d594fdd",
-      "size": 5533
+      "size": 5533,
+      "sha256": "eb6ac8049ed434ddbef94c19a35093ce701a5caaadf8c1729935a4892d594fdd"
     },
     {
       "path": "tests/core/test_controls_recovery.py",
-      "sha256": "1b8e1fe5753bc1cf2b22c2c4f02c2e0f9039690c7fb220aa4b2b0241fa1b9d6b",
-      "size": 8448
+      "size": 8448,
+      "sha256": "1b8e1fe5753bc1cf2b22c2c4f02c2e0f9039690c7fb220aa4b2b0241fa1b9d6b"
     },
     {
       "path": "tests/core/test_deadlines.py",
-      "sha256": "8ee82d69ed9c5f796b04b0633c7ae8ee64e50ec30f1e3cbe1de21a7f700a5cfb",
-      "size": 1372
+      "size": 1372,
+      "sha256": "8ee82d69ed9c5f796b04b0633c7ae8ee64e50ec30f1e3cbe1de21a7f700a5cfb"
     },
     {
       "path": "tests/core/test_events_storage.py",
-      "sha256": "9f332f27c7b2100459ec8c8063d125048b892aaf863b0093c26378a3f54d0367",
-      "size": 8319
+      "size": 8319,
+      "sha256": "9f332f27c7b2100459ec8c8063d125048b892aaf863b0093c26378a3f54d0367"
     },
     {
       "path": "tests/core/test_facade.py",
-      "sha256": "9d0a6c27ca17cb98116e9c2cee64d543a66bdb7383ecb9b61458c805c59af1d6",
-      "size": 10544
+      "size": 10544,
+      "sha256": "9d0a6c27ca17cb98116e9c2cee64d543a66bdb7383ecb9b61458c805c59af1d6"
     },
     {
       "path": "tests/core/test_process_gates.py",
-      "sha256": "77bf5c8050461040589368f342e3f85f1e0e6e2af2baf4a165d8618ccc6b799f",
-      "size": 5936
+      "size": 5936,
+      "sha256": "77bf5c8050461040589368f342e3f85f1e0e6e2af2baf4a165d8618ccc6b799f"
     },
     {
       "path": "tests/core/test_project_setup.py",
-      "sha256": "120a8018ed58a1803cdf5846afc8cd931298d34a1c52bddd0cab06289c589e0a",
-      "size": 3160
+      "size": 3160,
+      "sha256": "120a8018ed58a1803cdf5846afc8cd931298d34a1c52bddd0cab06289c589e0a"
     },
     {
       "path": "tests/core/test_real_backend.py",
-      "sha256": "cfa89eefd8e0d747ff69ca832fec01198e9467ec044ec4faa2198cf41cb9f144",
-      "size": 10645
+      "size": 10645,
+      "sha256": "cfa89eefd8e0d747ff69ca832fec01198e9467ec044ec4faa2198cf41cb9f144"
+    },
+    {
+      "path": "tests/test_contracts.py",
+      "size": 940,
+      "sha256": "2b208d49881ab6ccc23a6a9268a41fbd5f686313dc4e638d355700c298ef1eb3"
     },
     {
       "path": "tests/ui/.gitignore",
-      "sha256": "1ba5cb92ae7b29cf70ae3ccd20a0212c5f24204e0ad56907aaa877f962aa0b2a",
-      "size": 40
-    },
-    {
-      "path": "tests/ui/conftest.py",
-      "sha256": "eee1c609879e11aa734ad47a8335158252945f1eba8dd3a2fb5c8f0a6b1e551e",
-      "size": 2838
-    },
-    {
-      "path": "tests/ui/double.py",
-      "sha256": "ec3d72ba15fa0264cf4472c1417288aca0c71f7df9ba76a9f646a1573c03e710",
-      "size": 5328
-    },
-    {
-      "path": "tests/ui/test_chat.py",
-      "sha256": "0c07bbf7957da60b33ece154c3531b4f285e0dee9d662c786d7bc60826d021cf",
-      "size": 5431
-    },
-    {
-      "path": "tests/ui/test_launch.py",
-      "sha256": "1c1a23e74dc75b2f43754e3e5492281bd6a93b909d4a749346851de8ace6c3f0",
-      "size": 1564
-    },
-    {
-      "path": "tests/ui/test_production_smoke.py",
-      "sha256": "555c70f86a2ed769d6e81f01060222b0ff4ff35f0929d9080ab25c244700221b",
-      "size": 4796
-    },
-    {
-      "path": "tests/ui/test_window.py",
-      "sha256": "b27374e5f1d105c582e38613bc1d7097919ee399350aa07f11a47b9c76d82377",
-      "size": 16237
-    },
-    {
-      "path": "tests/ui/test_workflow.py",
-      "sha256": "ea3224c0922d661665915726e78410264fcf0fdf400ad451ab410188a16809cb",
-      "size": 2200
+      "size": 40,
+      "sha256": "1ba5cb92ae7b29cf70ae3ccd20a0212c5f24204e0ad56907aaa877f962aa0b2a"
     },
     {
       "path": "tests/ui/__init__.py",
-      "sha256": "638e34717a1949f1e2625147dc0e657682a7b702f48a563b0d3a759da234bc25",
-      "size": 54
+      "size": 54,
+      "sha256": "638e34717a1949f1e2625147dc0e657682a7b702f48a563b0d3a759da234bc25"
+    },
+    {
+      "path": "tests/ui/conftest.py",
+      "size": 2838,
+      "sha256": "eee1c609879e11aa734ad47a8335158252945f1eba8dd3a2fb5c8f0a6b1e551e"
+    },
+    {
+      "path": "tests/ui/double.py",
+      "size": 5328,
+      "sha256": "ec3d72ba15fa0264cf4472c1417288aca0c71f7df9ba76a9f646a1573c03e710"
+    },
+    {
+      "path": "tests/ui/test_chat.py",
+      "size": 5431,
+      "sha256": "0c07bbf7957da60b33ece154c3531b4f285e0dee9d662c786d7bc60826d021cf"
+    },
+    {
+      "path": "tests/ui/test_launch.py",
+      "size": 1564,
+      "sha256": "1c1a23e74dc75b2f43754e3e5492281bd6a93b909d4a749346851de8ace6c3f0"
+    },
+    {
+      "path": "tests/ui/test_production_smoke.py",
+      "size": 4796,
+      "sha256": "555c70f86a2ed769d6e81f01060222b0ff4ff35f0929d9080ab25c244700221b"
+    },
+    {
+      "path": "tests/ui/test_window.py",
+      "size": 16237,
+      "sha256": "b27374e5f1d105c582e38613bc1d7097919ee399350aa07f11a47b9c76d82377"
+    },
+    {
+      "path": "tests/ui/test_workflow.py",
+      "size": 2200,
+      "sha256": "ea3224c0922d661665915726e78410264fcf0fdf400ad451ab410188a16809cb"
     }
   ],
-  "hash_basis": "Prepared source bytes before Git line-ending normalization and README notice prefixes."
+  "hash_basis": "Prepared source bytes before Git line-ending normalization and README notice prefixes.",
+  "last_reviewed": "2026-11-07",
+  "manifest_scope": "Current reviewed source snapshot, excluding this manifest itself and untracked generated outputs."
 }
