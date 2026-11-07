@@ -1,0 +1,12 @@
+
+# Local credentials and generated files
+.env
+.env.local
+*.jks
+*.keystore
+keystore.properties
+local.properties
+node_modules/
+.gradle/
+.venv/
+__pycache__/

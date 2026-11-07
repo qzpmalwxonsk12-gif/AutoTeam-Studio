@@ -1,0 +1,6 @@
+# Preserve inherited-ACL test repositories and previous recovery probes locally.
+.r/
+.runtime/
+.pytest-tmp-*/
+probe.txt
+probe_dir/
